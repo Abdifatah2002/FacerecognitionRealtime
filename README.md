@@ -33,5 +33,3 @@ The analysis of your face is then turned into a mathematical formula. These faci
 Your code is then compared against a database of other faceprints. This database has photos with identification that can be compared.
 
 
-Follow us on Instagram for Daily Updates - https://www.instagram.com/freebirdscrew
-Youtube -  https://lnkd.in/esEC6bE
